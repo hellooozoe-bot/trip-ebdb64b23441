@@ -1,5 +1,5 @@
 /* Offline cache for the encrypted trip page. Contains no trip data. */
-const CACHE_VERSION = "20261112134440";
+const CACHE_VERSION = "20261112140509";
 const CACHE = "china-trip-" + CACHE_VERSION;
 const ASSETS = ["./", "./index.html", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png"];
 
